@@ -235,3 +235,4 @@ class CMQPlainJobHandler
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffreyo%2Flaravel-queue-cmq.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffreyo%2Flaravel-queue-cmq?ref=badge_large)
+
